@@ -4,7 +4,7 @@ let nombre = prompt("Ingresa tu nombre:");
 let edad = prompt("Ingresa tu edad:");
 
 // Mensaje de bienvenida con alert()
-alert("Â¡Bienvenido/a, " + nombre + "!");
+alert("¡Bienvenido/a, " + nombre + "de " + edad + " años!");
 
 // ImpresiÃ³n en consola
-console.log("El usuario " + nombre + " tiene " + edad + " aÃ±os");
+console.log("El usuario " + nombre + " tiene " + edad + " años");
